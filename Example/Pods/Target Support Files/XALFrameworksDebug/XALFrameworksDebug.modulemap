@@ -1,0 +1,6 @@
+framework module XALFrameworksDebug {
+  umbrella header "XALFrameworksDebug-umbrella.h"
+
+  export *
+  module * { export * }
+}
